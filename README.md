@@ -4,23 +4,22 @@ A web-based AI chatbot designed to assist college students by providing quick an
 
 ## 🚀 Features
 
-- Interactive chatbot interface
-- User-friendly web design
-- Real-time chat interaction
-- Chat history management
-- Clear chat functionality
-- Responsive interface
-- AI-powered responses
+- 💬 Interactive chatbot interface
+- 🤖 AI-powered responses
+- 🕒 Real-time chat experience
+- 🧹 Clear chat functionality
+- 📱 Responsive user interface
+- 🎨 Clean and user-friendly design
 
 ## 🛠️ Technologies Used
 
 - Python
 - Flask
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 college-chatbot/
@@ -29,4 +28,7 @@ college-chatbot/
 │   └── index.html
 │
 ├── app.py
-└── .gitattributes
+├── requirements.txt
+├── .gitignore
+├── .gitattributes
+└── README.md
