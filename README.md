@@ -1,3 +1,8 @@
+<img width="1920" height="1020" alt="chatbot2 jpg" src="https://github.com/user-attachments/assets/93e5212f-4bd7-4a02-a8c0-957a575318bb" />
+<img width="1920" height="1020" alt="chatbot2 jpg" src="https://github.com/user-attachments/assets/a16e73be-fc36-44b0-a9f9-c71689c5c456" />
+<img width="1920" height="1020" alt="chatbot png" src="https://github.com/user-attachments/assets/a1fb5b63-215e-4abe-b5a2-0bc20f77b472" />
+<img width="1920" height="1020" alt="chatbot2 jpg" src="https://github.com/user-attachments/assets/fe433461-1a72-4f85-a990-f7a839368485" />
+<img width="1920" height="1020" alt="chatbot png" src="https://github.com/user-attachments/assets/fda7b64d-e9ee-40d9-896c-ccff35442654" />
 # 🎓 College Chatbot
 
 A web-based AI chatbot designed to assist college students by providing quick and interactive responses to their queries.
