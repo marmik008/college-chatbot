@@ -35,3 +35,9 @@ college-chatbot/
 ├── .gitignore
 ├── .gitattributes
 └── README.md
+
+## 👨‍💻 Author
+
+**Marmik Prajapati**
+
+GitHub: https://github.com/marmik008
